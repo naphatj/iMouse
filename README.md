@@ -8,7 +8,6 @@ was given to the students and the students was taught briefly about how does it 
 The project Report contains the overview of the project including what sensor did we use and how the mouse works.
 ### There is also a video for project presentation by me.
 ### Basic concepts , example footage of using iMouse are included in the video.
-https://www.youtube.com/watch?v=M97N2FUT0iM
 -----------------------------------------------------------------------------------------------------------------------
 
 #### What did I learn?
